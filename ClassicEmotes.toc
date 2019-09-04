@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: Something Awful Emote Spam
+## Author: TrashEmoji
+## Version: 7.0.3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+ClassicEmotes.xml
+Metadata.lua
